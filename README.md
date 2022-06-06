@@ -1,5 +1,5 @@
 # An analysis on Raffles Medical Group
-University Coursework on Tableau
+Project analysis on Raffles Medical Group - 
 
 // The overall aim of this project is to uncover the different types of trends that appear within Raffles Medical Group.
 Dataset has been cleaned and extracted from previous annual reports and pulled into Tableau for data visualisation purposes.
